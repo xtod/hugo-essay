@@ -1,6 +1,6 @@
-baseURL = 'https://0x8.net/'
-title = 'black8'
-theme = 'jqx'
+baseURL = 'https://example.org/'
+title = 'jqx'
+theme = 'hugo-jqx'
 paginate = 5
 
 languageCode = 'zh-cn'       
@@ -9,7 +9,7 @@ locale = 'zh-cn'
 
 [params]
     mainSections = ["post"]
-    description = "jqx的个人博客，分享技术、阅读与思考"
+    description = "description"
     featuredImage = true                                     
 
 [[menu.main]]

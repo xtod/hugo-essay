@@ -13,14 +13,14 @@
 - 配置简单明了
 - 简单的博客和分类
 - 核心功能无需JavaScript
-- 暗黑模式
+- 自动切换暗黑模式
 
-## 试用示例
+## 试用方法
 
 ```sh
 hugo new site example
 cd example\themes
-git clone https://github.com/xtod/hugo-jqx.git jqx
+git clone https://github.com/xtod/hugo-jqx.git
 cd ..
 hugo server --minify
 ```
@@ -30,7 +30,7 @@ hugo server --minify
 ```toml
 baseURL = 'https://example.org/'
 title = 'jqx'
-theme = 'jqx'
+theme = 'hugo-jqx'
 paginate = 5
 
 languageCode = 'zh-cn'       
