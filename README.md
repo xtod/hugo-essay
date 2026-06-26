@@ -1,10 +1,10 @@
-# Hugo Book Theme
+# Hugo jqx theme
 
 [![Hugo](https://img.shields.io/badge/hugo-0.158-blue.svg)](https://gohugo.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Build with Hugo](https://github.com/alex-shpak/hugo-book/workflows/Build%20with%20Hugo/badge.svg)
 
-### [Hugo](https://gohugo.io) documentation theme as simple as plain book
+### [Hugo](https://gohugo.io) blog theme as simple as paper
 
 ![Screenshot](https://raw.githubusercontent.com/alex-shpak/hugo-book/main/images/screenshot.png)
 
