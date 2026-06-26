@@ -6,7 +6,7 @@ homepage = "https://github.com/xtod/hugo-jqx"
 demosite = "https://0x8.net"
 tags = ["responsive", "clean", "blog", "simple", "minimal", "mobile"]
 features = []
-min_version = "0.158.0"
+min_version = "0.160.0"
 
 [author]
   name = "jqx"
