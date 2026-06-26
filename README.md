@@ -4,7 +4,7 @@
 
 [示例站点](https://0x8.net) | [Demo](https://0x8.net)
 
-![Screenshot](https://raw.githubusercontent.com/xtod/hugo-essay/refs/heads/main/images/tn.png)
+![Screenshot](https://raw.githubusercontent.com/xtod/hugo-essay/refs/heads/main/images/screenshot.png)
 
 ## 特点
 
