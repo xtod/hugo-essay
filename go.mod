@@ -1,3 +1,3 @@
-module github.com/alex-shpak/hugo-book
+module github.com/xtod/hugo-jqx
 
 go 1.25
