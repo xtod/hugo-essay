@@ -1,6 +1,8 @@
 # Hugo jqx theme
 
-### [Hugo](https://gohugo.io) blog theme as simple as paper
+### Hugo blog theme as simple as paper
+
+[demosite](https://0x8.net)
 
 ![Screenshot](https://raw.githubusercontent.com/xtod/hugo-jqx/refs/heads/main/images/screenshot.png)
 
