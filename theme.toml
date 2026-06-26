@@ -1,8 +1,8 @@
-name = "jqx"
+name = "essay"
 license = "MIT"
-licenselink = "https://raw.githubusercontent.com/xtod/hugo-jqx/refs/heads/main/LICENSE"
-description = "Hugo blog theme as simple as paper"
-homepage = "https://github.com/xtod/hugo-jqx"
+licenselink = "https://raw.githubusercontent.com/xtod/hugo-essay/refs/heads/main/LICENSE"
+description = "a simple hugo theme as paper"
+homepage = "https://github.com/xtod/hugo-essay"
 demosite = "https://0x8.net"
 tags = ["responsive", "clean", "blog", "simple", "minimal", "mobile"]
 features = []
